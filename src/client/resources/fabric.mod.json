@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "Better Spy Glass",
+  "version": "0.0.1",
+  "name": "Better Spy Glass",
+  "description": "Better Spy Glass mod, now you can zoom spyglass)",
+  "authors": ["CapyLoverrr"],
+  "contact": {
+    "sources": "https://github.com/CapybarasLover"
+  },
+  "license": "MIT",
+  "mixins": [
+    "Better-Spy-Glass.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
