@@ -6,7 +6,7 @@
   "description": "Better Spy Glass mod, now you can zoom spyglass)",
   "authors": ["CapyLoverrr"],
   "contact": {
-    "sources": "https://github.com/CapybarasLover"
+    "sources": "https://github.com/CapybarasLover/Better-Spy-Glass"
   },
   "license": "MIT",
   "mixins": [
